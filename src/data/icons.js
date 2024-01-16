@@ -5,19 +5,6 @@ export const defaultIcons = [
     show: true,
     list: [
       {
-        name: "TestCsd",
-        icon: "l-line-chart",
-        id: 233,
-        data: {
-          externElement: true,
-          width: 100,
-          height: 100,
-          disableAnchor: true,
-          // tag: "mind",
-          name: "TestC",
-        },
-      },
-      {
         name: "square",
         icon: "l-rect",
         id: 1,
